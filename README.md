@@ -1,3 +1,3 @@
 ### <div align="center">Ella</div>
 
-Barista, currently live in Amsterdam, NL.
+<div align="center">Barista, currently live in Amsterdam, The Netherlands.</div>
